@@ -35,8 +35,8 @@ This will start both frontend and backend, along with a PostgreSQL database.
 ```bash
 docker-compose up --build
 ```
-- Frontend: http://localhost:8089
-- Backend API: http://backend:3003 (or as configured)
+- Frontend: http://localhost:5173
+- Backend API: http://localhost:3003 (or as configured)
 
 ### 4. Manual Local Development
 #### Backend
